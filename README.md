@@ -8,7 +8,7 @@ Welcome to **Weather GPT**, a smart and conversational weather assistant powered
 
 Weather GPT is a duo of dynamic workflows, working together like sunshine and clouds:
 
-### 1️⃣ WeatherAgent.json — The Weather Fetcher & Summarizer  
+### 1️⃣ WeatherAgent.json — The Weather Fetcher & Summarizer  (WeatherAgent.)
 Your go-to for real-time, localized weather info, transformed into easy-to-understand, friendly summaries.
 
 **How it works:**
