@@ -22,7 +22,7 @@ Your go-to for real-time, localized weather info, transformed into easy-to-under
 
 ---
 
-### 2️⃣ Weather Agent.json — The Chatty AI Weather & Knowledge Agent  
+### 2️⃣ Weather Agent.json — The Chatty AI Weather & Knowledge Agent  ![Weather Agent n8n Workflow](https://github.com/WisteriaM7/Weather.GPT/blob/main/Weather%20Agent%20n8n%20Workflow.png)
 Chat with it like a friend. Ask about weather, temperature, humidity — or even throw in some general trivia questions.
 
 **Features:**
